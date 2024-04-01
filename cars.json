@@ -1,0 +1,172 @@
+[
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2022,
+      "colors": [
+        "red",
+        "blue",
+        "white"
+      ],
+      "features": {
+        "engine": "1.8L 4-cylinder",
+        "transmission": "CVT",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=1"
+    },
+    {
+      "id": 2,
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "colors": [
+        "black",
+        "silver",
+        "gray"
+      ],
+      "features": {
+        "engine": "2.0L 4-cylinder",
+        "transmission": "Automatic",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=2"
+    },
+    {
+      "id": 3,
+      "brand": "Ford",
+      "model": "Mustang",
+      "year": 2022,
+      "colors": [
+        "yellow",
+        "orange",
+        "black"
+      ],
+      "features": {
+        "engine": "5.0L V8",
+        "transmission": "Manual",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=3"
+    },
+    {
+      "id": 4,
+      "brand": "Chevrolet",
+      "model": "Camaro",
+      "year": 2023,
+      "colors": [
+        "red",
+        "black",
+        "white"
+      ],
+      "features": {
+        "engine": "6.2L V8",
+        "transmission": "Automatic",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=4"
+    },
+    {
+      "id": 5,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "year": 2024,
+      "colors": [
+        "white",
+        "black",
+        "blue"
+      ],
+      "features": {
+        "engine": "Electric",
+        "transmission": "Automatic",
+        "fuelType": "Electric"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=5"
+    },
+    {
+      "id": 6,
+      "brand": "BMW",
+      "model": "3 Series",
+      "year": 2022,
+      "colors": [
+        "blue",
+        "gray",
+        "black"
+      ],
+      "features": {
+        "engine": "2.0L 4-cylinder",
+        "transmission": "Automatic",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=6"
+    },
+    {
+      "id": 7,
+      "brand": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": 2023,
+      "colors": [
+        "silver",
+        "black",
+        "white"
+      ],
+      "features": {
+        "engine": "3.0L 6-cylinder",
+        "transmission": "Automatic",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=7"
+    },
+    {
+      "id": 8,
+      "brand": "Audi",
+      "model": "A4",
+      "year": 2022,
+      "colors": [
+        "black",
+        "white",
+        "gray"
+      ],
+      "features": {
+        "engine": "2.0L 4-cylinder",
+        "transmission": "Automatic",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=8"
+    },
+    {
+      "id": 9,
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "year": 2023,
+      "colors": [
+        "red",
+        "blue",
+        "gray"
+      ],
+      "features": {
+        "engine": "1.4L 4-cylinder",
+        "transmission": "Automatic",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=9"
+    },
+    {
+      "id": 10,
+      "brand": "Hyundai",
+      "model": "Elantra",
+      "year": 2022,
+      "colors": [
+        "white",
+        "black",
+        "silver"
+      ],
+      "features": {
+        "engine": "2.0L 4-cylinder",
+        "transmission": "Automatic",
+        "fuelType": "Gasoline"
+      },
+      "images": "https://loremflickr.com/320/240/cars?lock=10"
+    }
+]
